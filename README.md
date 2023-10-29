@@ -1,6 +1,6 @@
 # array_based_chess_engine
-chess engine in c++ using SFML GUI
-uses 2d array data structure
+chess engine in c++ using SFML GUI <br>
+uses 2d array data structure <br>
 
 to run: <br>
 install SFML-2.5.1<br>
